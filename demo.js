@@ -13,3 +13,4 @@ console.log("hh");
 console.log("hh");
 console.log("data");
 console.log("mdn");
+console.log("any");
