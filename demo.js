@@ -7,3 +7,4 @@ console.log("mdn");
 console.log("ref");
 console.log("ref");
 console.log("log");
+console.log("data");
