@@ -16,5 +16,5 @@ console.log("mdn");
 console.log("any");
 console.log("data");
 console.log("mdn");
-console.log("");
+console.log("column");
 
